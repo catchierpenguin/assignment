@@ -2,7 +2,7 @@
     text-align: center;
     display: inline-block;
     font-size: 48px;
-    width: 100%;
+    width: 98%;
     padding-bottom: 15px;
     padding-top: 15px;
     background-color: rgb(14, 54, 17);
@@ -12,11 +12,9 @@
     border-bottom: 5px solid black;
 }
 .imgheader {
-    text-align: left;
     display: inline-block;
-    width: 90px;
-    height: 139;
-    padding-right: 1246px;
+    width: 50%;
+    height: 50%;
     background-color: rgb(14, 54, 17);
     color: white;
     width: 15px;
