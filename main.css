@@ -1,8 +1,6 @@
-.header {
-    text-align: center;
+.hborder {
     display: inline-block;
-    font-size: 48px;
-    width: 98%;
+    width: 100%;
     padding-bottom: 15px;
     padding-top: 15px;
     background-color: rgb(14, 54, 17);
@@ -10,11 +8,26 @@
     width: 100%;
     margin: 0px;
     border-bottom: 5px solid black;
-    padding-left: 40%;
-    padding-right: 40%;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+.header {
+    text-align: center;
+    display: inline;
+    font-size: 48px;
+    width: 100%;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    background-color: rgb(14, 54, 17);
+    color: white;
+    width: 100%;
+    margin: 0px;
+    border-bottom: 5px solid black;
+    padding-left: 25%;
+    padding-right: 25%;
 }
 .imgheader {
-    display: inline-block;
+    display: inline;
     background-color: rgb(14, 54, 17);
     color: white;
 }
@@ -25,5 +38,4 @@
     border: 1px solid black;
     border-radius: 0;
     width: 5px;
-    margin: 5px;
 }
