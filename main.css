@@ -7,7 +7,7 @@
     padding-top: 15px;
     background-color: rgb(14, 54, 17);
     color: white;
-    width: auto;
+    width: 100%;
     margin: 0px;
     border-bottom: 5px solid black;
 }
@@ -24,6 +24,7 @@
     height: 1px;
     display: inline-block;
     background-color: black;
-    border: 5cap solid black;
+    border: 1px solid black;
     border-radius: 0;
+    width: 5px;
 }
