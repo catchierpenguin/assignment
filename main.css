@@ -15,15 +15,15 @@
     display: inline-block;
     background-color: rgb(14, 54, 17);
     color: white;
-    margin-right: auto;
+    margin-right: 45%;
     margin-left: 5%;
 }
 .menu {
     margin-right: 5%;
-    margin-left: auto;
-    padding: 2px;
+    margin-left: 45%;
+    height: 1px;
     display: inline-block;
-    border: 1px solid black;
+    background-color: black;
+    border: 5cap solid black;
     border-radius: 0;
-    width: 5px;
 }
