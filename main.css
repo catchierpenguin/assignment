@@ -12,14 +12,17 @@
     display: inline;
     font-size: 48px;
     color: white;
+    vertical-align: top;
 }
 .imgheader {
     display: inline;
     background-color: rgb(14, 54, 17);
     color: white;
+    height: 33%;
+    width: 33%;
 }
 .menu {
-    height: 1px;
+    height: 0px;
     display: inline-block;
     background-color: black;
     border: 1px solid black;
