@@ -8,6 +8,8 @@
     border-bottom: 5px solid black;
 }
 .header {
+    padding-left: 500px;
+    padding-right: 250px;
     text-align: center;
     display: inline;
     font-size: 48px;
