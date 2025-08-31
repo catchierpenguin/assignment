@@ -11,13 +11,13 @@
     padding-left: 50px;
     padding-right: 50px;
     text-align: center;
-    display: inline;
+    display: inline-block;
     font-size: 48px;
     color: white;
     vertical-align: top;
 }
 .imgheader {
-    display: inline;
+    display: inline-block;
     background-color: rgb(14, 54, 17);
     color: white;
     height: 139px;
@@ -31,4 +31,6 @@
     border-radius: 0;
     width: 5px;
 }
-{}
+ul {
+    list-style-type: none;
+}
