@@ -30,6 +30,7 @@
     border: 1px solid black;
     border-radius: 0;
     width: 5px;
+    line-height: 1px;
 }
 ul {
     list-style-type: none;
