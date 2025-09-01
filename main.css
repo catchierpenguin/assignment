@@ -36,4 +36,6 @@ ul {
     list-style-type: none;
     display: inline-block;
 }
-li
+li {
+    display: inline-block
+}
