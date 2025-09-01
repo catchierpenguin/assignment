@@ -34,5 +34,5 @@
 }
 ul {
     list-style-type: none;
-    dis
+    display: inline-block;
 }
