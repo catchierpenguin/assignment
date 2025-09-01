@@ -35,7 +35,9 @@
 ul {
     list-style-type: none;
     display: inline-block;
+    position: absolute;
 }
 li {
     display: inline-block;
+    position: absolute;
 }
