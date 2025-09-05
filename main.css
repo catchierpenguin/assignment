@@ -5,6 +5,7 @@
     background-color: rgb(14, 54, 17);
     border-bottom: 5px solid black;
     margin: 0;
+    padding: 0;
 }
 header {
     font-size: 48px;
@@ -18,11 +19,11 @@ li {
     background-color: white;
     border: 15px solid rgb(14, 54, 17);
     border-radius: 0;
-    width: 50px;
-    row-gap: 10;
-    padding-right: 30px;
 }
 ul {
+    padding-right: 30px;
+    width: 50px;
     display: grid;
     list-style-type: none;
+    row-gap: 10px;
 }
