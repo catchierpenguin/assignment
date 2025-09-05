@@ -19,10 +19,10 @@ li {
     background-color: white;
     border: 15px solid rgb(14, 54, 17);
     border-radius: 0;
+    width: 70px;
 }
 ul {
     padding-right: 30px;
-    width: 70px;
     display: grid;
     list-style-type: none;
     row-gap: 3px;
