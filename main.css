@@ -4,6 +4,9 @@
     width: 100%;
     background-color: rgb(14, 54, 17);
     border-bottom: 5px solid black;
+    border-radius: 0;
+    border-left: 0;
+    border-top: 0;
     margin: 0;
     padding: 0;
 }
@@ -19,7 +22,7 @@ li {
     background-color: white;
     border: 15px solid rgb(14, 54, 17);
     border-radius: 0;
-    width: 70px;
+    width: 45px;
 }
 ul {
     padding-right: 30px;
