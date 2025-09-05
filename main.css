@@ -1,16 +1,14 @@
 .hborder {
     display: flex;
+    justify-content: space-between;
     width: 100%;
-    gap: 200px;
     background-color: rgb(14, 54, 17);
     width: 100%;
     border-bottom: 5px solid black;
 }
 header {
-    justify-content: center;
     font-size: 48px;
     color: white;
-    vertical-align: top;
 }
 .imgheader {
     background-color: rgb(14, 54, 17);
@@ -26,5 +24,4 @@ li {
 }
 ul {
     list-style-type: none;
-    justify-content: end;
 }
