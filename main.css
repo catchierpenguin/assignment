@@ -7,13 +7,15 @@
     border-bottom: 5px solid black;
 }
 .header {
-    justify-content: center;
+    justify-content:  center;
     font-size: 48px;
     color: white;
+    vertical-align: top;
 }
 .imgheader {
     background-color: rgb(14, 54, 17);
     color: white;
+    height: 139px;
 }
 .menu {
     height: 1px;
@@ -21,4 +23,8 @@
     border: 1px solid white;
     border-radius: 0;
     width: 5px;
+    line-height: 1px;
+}
+ul {
+    list-style-type: none;
 }
