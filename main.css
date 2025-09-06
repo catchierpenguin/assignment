@@ -42,6 +42,6 @@ ul {
     width: 80px;
     justify-content: stretch;
     margin: 0;
-    padding: 0;
+    row-gap: 3px;
     border: 0;
 }
