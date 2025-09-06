@@ -18,6 +18,7 @@ header {
     font-size: 48px;
     color: white;
     padding-top: 5px;
+    margin: 0;
 }
 .imgheader {
     background-color: rgb(14, 54, 17);
