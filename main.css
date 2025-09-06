@@ -30,6 +30,7 @@ li {
     border: 7px solid rgb(14, 54, 17);
     border-radius: 0;
     width: 75px;
+    height: 7px;
 }
 ul {
     padding-right: 30px;
