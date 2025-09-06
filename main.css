@@ -27,10 +27,9 @@ header {
 }
 li {
     background-color: white;
-    border: 3px solid rgb(14, 54, 17);
+    border: 1px solid rgb(14, 54, 17);
     border-radius: 0;
-    width: 75px;
-    height: 3px;
+    padding: 7px;
 }
 ul {
     padding-right: 30px;
