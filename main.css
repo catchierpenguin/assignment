@@ -11,11 +11,8 @@ body {
     background-color: rgb(14, 54, 17);
     border-bottom: 5px solid black;
     border-radius: 0;
-    border-left: 0;
-    border-top: 0;
-    margin: 0;
-    padding: 0;
-    outline: 0;
+    height: 100px;
+
 }
 header {
     font-size: 48px;
@@ -37,7 +34,7 @@ li {
 ul {
     padding-right: 30px;
     padding-top: 30px;
-    padding-bottom: 100px;
+    padding-bottom: 70px;
     display: flex;
     list-style-type: none;
     flex-wrap: wrap;
