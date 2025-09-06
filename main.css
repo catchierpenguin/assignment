@@ -9,6 +9,7 @@
     border-top: 0;
     margin: 0;
     padding: 0;
+    outline: 0;
 }
 header {
     font-size: 48px;
@@ -20,9 +21,9 @@ header {
 }
 li {
     background-color: white;
-    border: 15px solid rgb(14, 54, 17);
+    border: 7px solid rgb(14, 54, 17);
     border-radius: 0;
-    width: 150px;
+    width: 75px;
 }
 ul {
     padding-right: 30px;
