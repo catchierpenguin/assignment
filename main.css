@@ -6,7 +6,7 @@ body {
 }
 .hborder {
     display: flex;
-    justify-content: baseline;
+    justify-content: space-between;
     width: 100%;
     background-color: rgb(14, 54, 17);
     border-bottom: 5px solid black;
