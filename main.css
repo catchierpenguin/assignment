@@ -29,7 +29,8 @@ li {
     background-color: white;
     border: 1px solid rgb(14, 54, 17);
     border-radius: 0;
-    padding: 7px;
+    width: 75px;
+    height: 7px;
 }
 ul {
     padding-right: 30px;
