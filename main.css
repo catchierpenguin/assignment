@@ -31,10 +31,11 @@ li {
     border-radius: 0;
     width: 75px;
     height: 7px;
+    margin: 3px
 }
 ul {
     padding-right: 30px;
     display: grid;
     list-style-type: none;
-    row-gap: 3px;
+    row-gap: 1px;
 }
