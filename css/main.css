@@ -63,3 +63,10 @@ ul {
     margin-top: 400px;
     margin-bottom: 400px;
 }
+.referencesB {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    width: 100%;
+    height: 500px;
+}
