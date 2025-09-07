@@ -45,4 +45,13 @@ ul {
     border: 0;
 }
 .background {
+    background-image: url("../images/canobolas-canteen.jpg");
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.Htext {
+    border: 3px solid black;
+    background-color: rgb(14, 54, 71);
+    color: white;
 }
