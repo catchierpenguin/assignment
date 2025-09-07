@@ -46,6 +46,7 @@ ul {
 }
 .background {
     background-image: url("../images/canobolas-canteen.jpg");
+    background-repeat: no-repeat;
     display: flex;
     justify-content: center;
     align-content: center;
@@ -60,4 +61,6 @@ ul {
     font-size: 48px;
     margin-right: 800px;
     margin-left: 800px;
+    margin-top: 400px;
+    margin-bottom: 400px;
 }
