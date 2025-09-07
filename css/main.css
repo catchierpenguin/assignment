@@ -47,11 +47,10 @@ ul {
 .background {
     background-image: url("../images/canobolas-canteen.jpg");
     background-repeat: no-repeat;
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-content: center;
-    width: 100%;
-    height: 1431px;
 }
 .Htext {
     border: 3px solid black;
