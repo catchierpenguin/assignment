@@ -73,5 +73,7 @@ me {
 .references {
     font-size: 25px;
     color: white;
-    line-height: 5px;
+    line-height: 50px;
+    padding-right: 200px;
+    padding-left: 200px;
 }
