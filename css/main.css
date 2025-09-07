@@ -23,7 +23,7 @@ h1 {
     background-color: rgb(14, 54, 17);
     color: white;
 }
-li {
+m {
     background-color: white;
     border: 0px solid rgb(14, 54, 17);
     border-radius: 0;
@@ -32,7 +32,7 @@ li {
     margin: 0;
     padding: 0;
 }
-ul {
+me {
     padding-right: 30px;
     padding-top: 30px;
     padding-bottom: 50px;
@@ -68,5 +68,4 @@ ul {
     justify-content: space-between;
     background-color: black;
     width: 100%;
-    height: 500px;
 }
