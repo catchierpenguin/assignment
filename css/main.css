@@ -69,3 +69,8 @@ me {
     background-color: black;
     width: 100%;
 }
+.references {
+    font-size: 25px;
+    color: white;
+    line-height: 5px;
+}
