@@ -4,15 +4,11 @@ body {
     border: 0;
     outline: 0;
 }
-.inv {
-    display: flex;
-    justify-content: center;
-    opacity: 0.2;
-    text-indent: -999px;
-}
 .vis {
-    display: flex;
-    justify-content: center;
+    opacity: 0.2;
+}
+.inv {
+    text-indent: -9999px;
     opacity: 0.2;
 }
 .visT {
@@ -58,6 +54,12 @@ h1 {
     justify-content: stretch;
     margin: 0;
     border: 0;
+}
+.but {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    background-color: rgb(14, 54, 17);
 }
 .background {
     background-image: url("../images/canobolas-canteen.jpg");
