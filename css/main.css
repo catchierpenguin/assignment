@@ -5,7 +5,10 @@ body {
     outline: 0;
 }
 .inv {
-    display: none;
+    display: flex;
+    justify-content: center;
+    opacity: 0.2;
+    text-indent: -99999px;
 }
 .vis {
     display: flex;
