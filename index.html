@@ -15,12 +15,22 @@
                 Canobolas High School Canteen
               </h1>
             </header>
-              <ul class="me">
-             <li class="m"></li>
-             <li class="m"></li>
-             <li class="m"></li> 
+            <button>
+              <ul class="me" id="menu">
+             <li class="m" id="menu"></li>
+             <li class="m" id="menu"></li>
+             <li class="m" id="menu"></li> 
               </ul>
+              </button>
+            <script>
+                function clickaction() {
+                    const element = document.getElementById("menuB")
+                    element.classlist.remove("inv")
+                    element.classList.add("vis")
+                }
+            </script>
         </section>
+        <div id="menuB" class="inv">
         <section class="background">
             <div class="Htext">
                 Canobolas High School Canteen strives to provide healthy and cost effective food and drinks to our students every recess and lunch. 
@@ -44,5 +54,6 @@
                 </ul>
             </div>
         </section>
+        </div>
     </body>
 </html>
