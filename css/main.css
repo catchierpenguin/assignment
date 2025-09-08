@@ -23,16 +23,14 @@ h1 {
     background-color: rgb(14, 54, 17);
     color: white;
 }
-m {
+.m {
     background-color: white;
     border: 1px solid rgb(14, 54, 17);
     border-radius: 0;
     height: 7px;
     width: 75px;
-    margin: 0;
-    padding: 0;
 }
-me {
+.me {
     padding-right: 30px;
     padding-top: 30px;
     padding-bottom: 50px;
@@ -41,8 +39,6 @@ me {
     flex-wrap: wrap;
     width: 80px;
     justify-content: stretch;
-    margin: 0;
-    border: 0;
 }
 .background {
     background-image: url("../images/canobolas-canteen.jpg");
