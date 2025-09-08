@@ -8,7 +8,7 @@ body {
     display: flex;
     justify-content: center;
     opacity: 0.2;
-    text-indent: -99999px;
+    text-indent: -999px;
 }
 .vis {
     display: flex;
