@@ -22,12 +22,14 @@ body {
     display: flex;
     justify-content: space-between;
     list-style-type: none;
+    padding-right: 20px;
 }
 h1 {
     font-size: 90px;
     color: white;
     padding-top: 20px;
     margin-top: 0;
+    padding-right: 120px;
 }
 .menu {
     font-size: 40px;
@@ -36,27 +38,6 @@ h1 {
 .imgheader {
     background-color: rgb(14, 54, 17);
     color: white;
-}
-.m {
-    background-color: white;
-    border: 1px solid rgb(14, 54, 17);
-    border-radius: 0;
-    height: 7px;
-    width: 75px;
-    margin: 0;
-    padding: 0;
-}
-.me {
-    padding-right: 30px;
-    padding-top: 30px;
-    padding-bottom: 50px;
-    display: flex;
-    list-style-type: none;
-    flex-wrap: wrap;
-    width: 80px;
-    justify-content: stretch;
-    margin: 0;
-    border: 0;
 }
 .background {
     background-image: url("../images/canobolas-canteen.jpg");
