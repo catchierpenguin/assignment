@@ -57,9 +57,7 @@ body {
     padding-left: 200px;
 }
 .formp {
-    display: flex;
-    justify-content: space-evenly;
-    flex-wrap: nowrap;
+    display: inline-block;
 }
 .formt {
     color: black;
