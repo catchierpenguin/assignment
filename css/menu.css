@@ -2,14 +2,12 @@
     border-top: 1px solid black;
     border-left: 1px solid black;
     border-right: 1px solid black;
+    border-bottom: 1px solid black;
     margin-right: 25px;
     margin-left: 25px;
     border-radius: 5px;
     width: 600px;
-    margin-bottom: 50px
-}
-.menuc {
-    border-bottom: 1px solid black;
+    margin-bottom: 50px;
 }
 .pheader {
     color: black;
