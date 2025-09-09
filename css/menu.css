@@ -39,7 +39,6 @@
     background-color: rgb(14, 54, 17);
     width: 100%;
     height: 139px;
-    position: fixed;
 }
 .hborder {
     background-color: rgb(14, 54, 17);
@@ -48,8 +47,6 @@
     width: 100%;
     height: 50px;
     margin-top: 0;
-    position: fixed;
-    margin-top: 278px;
 }
 .ul {
     display: flex;
