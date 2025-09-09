@@ -60,7 +60,7 @@ h1 {
     margin-top: 400px;
     margin-bottom: 400px;
 }
-.referencesB {
+.referencesB { 
     display: flex;
     justify-content: space-between;
     background-color: black;
@@ -73,13 +73,4 @@ h1 {
     line-height: 50px;
     padding-right: 200px;
     padding-left: 200px;
-}
-.menup {
-    border-top: 1px solid black;
-    border-left: 1px solid black;
-    border-right: 1px solid black;
-    margin: 20px, 40%, 20px, 40% ;
-}
-.menuc {
-    border-bottom: 1px solid black;
 }
