@@ -59,6 +59,7 @@ h1 {
 .formp {
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: nowrap;
 }
 .formt {
     color: black;
