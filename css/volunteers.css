@@ -57,7 +57,9 @@ body {
     padding-left: 200px;
 }
 .formp {
-    display: inline-block;
+    display: flex;
+    justify-content: space-between;
+    align-items: s;
 }
 .formt {
     color: black;
