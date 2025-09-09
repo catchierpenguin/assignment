@@ -49,6 +49,7 @@
     height: 50px;
     margin-top: 0;
     position: fixed;
+    margin-top: 139px;
 }
 .ul {
     display: flex;
