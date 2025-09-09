@@ -56,7 +56,14 @@ h1 {
     padding-right: 200px;
     padding-left: 200px;
 }
-.form {
+.formp {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
+}
+.formt {
+    color: black;
+}
+.form {
+    border: 1px solid black;
+    border-radius: 5px;
 }
