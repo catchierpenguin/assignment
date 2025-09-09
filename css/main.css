@@ -48,6 +48,7 @@ h1 {
     display: flex;
     justify-content: center;
     align-content: center;
+    margin-top: 139px;
 }
 .Htext {
     border: 3px solid black;
