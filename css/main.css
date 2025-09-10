@@ -33,7 +33,7 @@ h1 {
     color: white;
     padding-top: 20px;
     margin-top: 0;
-    padding-right: 600px;
+    padding-right: auto;
 }
 .menu {
     font-size: 40px;
